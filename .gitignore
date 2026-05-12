@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.pt
+*.pth
+*.h5
+*.hdf5
+wandb/
+.idea/
+*.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+target,target_name,method_suffix,split_type,split_label,group_id,group_label,bp_source,bin_label,n_group,n_nonhypertensive,n_baseline_recordings_mean_pooled,n_2y,cases_2y,percent_2y,n_4y,cases_4y,percent_4y
+Sitting BP diastolic,Sitting BP diastolic,mean_all,quintiles,quintiles,group1a,Measured BP Q1,measured,Q1,603,2893,1637,27,0,0.0,0,0,
+Sitting BP diastolic,Sitting BP diastolic,mean_all,quintiles,quintiles,group2a,Measured BP Q5,measured,Q5,534,2893,1474,71,17,23.943661971830984,0,0,
+Sitting BP diastolic,Sitting BP diastolic,mean_all,quintiles,quintiles,group1b,Predicted BP Q1,predicted,Q1,579,2893,1554,19,0,0.0,0,0,
+Sitting BP diastolic,Sitting BP diastolic,mean_all,quintiles,quintiles,group2b,Predicted BP Q5,predicted,Q5,579,2893,1594,65,15,23.076923076923077,0,0,

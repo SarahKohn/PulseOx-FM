@@ -1,0 +1,201 @@
+target,target_display,stratifier,quartile,n,mean_delta_2y,sd_delta_2y_within_quartile,n_participants_analysis
+AHI (SM),AHI,embedding_residual,Q1,944,1.2967291453457896,5.922359580905862,3774
+AHI (SM),AHI,embedding_residual,Q2,943,1.2142001651460945,5.8098622551999135,3774
+AHI (SM),AHI,embedding_residual,Q3,943,0.3910048220711253,6.184014433469667,3774
+AHI (SM),AHI,embedding_residual,Q4,944,-1.2654457935292467,8.255096679583074,3774
+ALT\GPT (BT),ALT\GPT,embedding_residual,Q1,267,-0.20994958785471365,8.270548764367804,1066
+ALT\GPT (BT),ALT\GPT,embedding_residual,Q2,266,-0.37107409287146753,8.212458828426898,1066
+ALT\GPT (BT),ALT\GPT,embedding_residual,Q3,266,-0.5598037229052584,7.211604382380892,1066
+ALT\GPT (BT),ALT\GPT,embedding_residual,Q4,267,0.013754736526209213,7.135410483963685,1066
+AST\GOT (BT),AST\GOT,embedding_residual,Q1,235,0.3244373836551914,4.707612690885784,940
+AST\GOT (BT),AST\GOT,embedding_residual,Q2,235,-0.028682819972329146,5.0613234532198135,940
+AST\GOT (BT),AST\GOT,embedding_residual,Q3,235,0.07858142627113211,4.644824185954225,940
+AST\GOT (BT),AST\GOT,embedding_residual,Q4,235,0.30415382972448507,5.205392941295305,940
+Albumin (BT),Albumin,embedding_residual,Q1,179,0.04709776536312851,0.19680241910927568,715
+Albumin (BT),Albumin,embedding_residual,Q2,179,-0.005823782149245488,0.19251667154405538,715
+Albumin (BT),Albumin,embedding_residual,Q3,178,0.02966385767790265,0.18189919160193102,715
+Albumin (BT),Albumin,embedding_residual,Q4,179,0.037751396648044694,0.18990130770846933,715
+Android tissue fat percent (DXA),Android tissue fat percent,embedding_residual,Q1,1021,0.44268544378060726,4.929070083806133,4081
+Android tissue fat percent (DXA),Android tissue fat percent,embedding_residual,Q2,1020,0.13754908137254904,4.4249704762564575,4081
+Android tissue fat percent (DXA),Android tissue fat percent,embedding_residual,Q3,1020,-0.1378093736274512,4.735321028973818,4081
+Android tissue fat percent (DXA),Android tissue fat percent,embedding_residual,Q4,1020,0.16458368362745066,4.700446648016774,4081
+Average width (FI),Average width,embedding_residual,Q1,434,478.1523032640271,935.5031296549654,1736
+Average width (FI),Average width,embedding_residual,Q2,434,492.1759487811754,849.8232564327067,1736
+Average width (FI),Average width,embedding_residual,Q3,434,491.71030691743573,932.7427631642698,1736
+Average width (FI),Average width,embedding_residual,Q4,434,499.020885695509,1002.4147570250633,1736
+CRP (BT),CRP,embedding_residual,Q1,34,-0.2658862092487876,0.9046121808158941,135
+CRP (BT),CRP,embedding_residual,Q2,34,0.07245098039215686,0.35358868114904385,135
+CRP (BT),CRP,embedding_residual,Q3,33,-0.2782362963977407,0.9528482032526934,135
+CRP (BT),CRP,embedding_residual,Q4,34,0.14624999999999996,0.7892897397978568,135
+Carotid - intima media thickness (US),Carotid - intima media thickness,embedding_residual,Q1,1034,0.02123659395636572,0.10771351402514286,4135
+Carotid - intima media thickness (US),Carotid - intima media thickness,embedding_residual,Q2,1034,0.01630347777686147,0.10714051379344643,4135
+Carotid - intima media thickness (US),Carotid - intima media thickness,embedding_residual,Q3,1033,0.024360100165472454,0.10217020944440255,4135
+Carotid - intima media thickness (US),Carotid - intima media thickness,embedding_residual,Q4,1034,0.02469031543667266,0.10604464006550329,4135
+Daily Fiber,Daily Fiber,embedding_residual,Q1,1084,-0.00040920655957862124,0.003638759624803045,4333
+Daily Fiber,Daily Fiber,embedding_residual,Q2,1083,-0.00024170017718424042,0.0036507081760161846,4333
+Daily Fiber,Daily Fiber,embedding_residual,Q3,1083,-0.0001892769819507642,0.0036879484357381608,4333
+Daily Fiber,Daily Fiber,embedding_residual,Q4,1083,-0.00018769288887427195,0.0037323770148875108,4333
+Daily Folate,Daily Folate,embedding_residual,Q1,1084,0.003998811564345707,0.06285639062896928,4333
+Daily Folate,Daily Folate,embedding_residual,Q2,1083,0.003002238364849273,0.0651196426568167,4333
+Daily Folate,Daily Folate,embedding_residual,Q3,1083,0.007090252442967949,0.06070789224934641,4333
+Daily Folate,Daily Folate,embedding_residual,Q4,1083,0.002978270238192481,0.06570402280641534,4333
+Fractal dimension (FI),Fractal dimension,embedding_residual,Q1,434,-0.02151860534591533,0.014440784539364515,1736
+Fractal dimension (FI),Fractal dimension,embedding_residual,Q2,434,-0.02317270718850407,0.014327579227598777,1736
+Fractal dimension (FI),Fractal dimension,embedding_residual,Q3,434,-0.021827352205151942,0.015085417272040352,1736
+Fractal dimension (FI),Fractal dimension,embedding_residual,Q4,434,-0.022902362978038573,0.015167757170967711,1736
+GGT (BT),GGT,embedding_residual,Q1,81,-0.9300411522633745,5.531074727137052,321
+GGT (BT),GGT,embedding_residual,Q2,80,0.6352656267922085,8.623163422180603,321
+GGT (BT),GGT,embedding_residual,Q3,80,-0.35640141330643144,7.441514469734589,321
+GGT (BT),GGT,embedding_residual,Q4,80,-0.288106026657699,8.436380217917403,321
+HDL cholesterol (BT),HDL cholesterol,embedding_residual,Q1,251,1.897516001426789,8.142288812242755,1003
+HDL cholesterol (BT),HDL cholesterol,embedding_residual,Q2,251,1.901660026560425,6.2623208787832505,1003
+HDL cholesterol (BT),HDL cholesterol,embedding_residual,Q3,250,1.6919333333333333,6.296961498272017,1003
+HDL cholesterol (BT),HDL cholesterol,embedding_residual,Q4,251,2.0494687915006637,6.511427027841978,1003
+Hand Grip Left,Hand Grip Left,embedding_residual,Q1,1277,-1.6296789577068906,12.256987776448135,5107
+Hand Grip Left,Hand Grip Left,embedding_residual,Q2,1277,-1.545418901376269,10.969263325558625,5107
+Hand Grip Left,Hand Grip Left,embedding_residual,Q3,1276,-1.5642273340105635,11.090573683208111,5107
+Hand Grip Left,Hand Grip Left,embedding_residual,Q4,1277,-2.10400165387589,11.870986258621944,5107
+Hand Grip Right,Hand Grip Right,embedding_residual,Q1,1278,-2.1588418957586395,12.501510459347227,5110
+Hand Grip Right,Hand Grip Right,embedding_residual,Q2,1277,-2.2668441086890834,11.097352121870227,5110
+Hand Grip Right,Hand Grip Right,embedding_residual,Q3,1277,-2.993500439935862,17.436032580994773,5110
+Hand Grip Right,Hand Grip Right,embedding_residual,Q4,1278,-2.0224569765428235,12.17834990386195,5110
+HbA1C (BT),HbA1C,embedding_residual,Q1,106,-0.049609507387342,0.29623255320285075,424
+HbA1C (BT),HbA1C,embedding_residual,Q2,106,-0.07177155126305183,0.2858991535694004,424
+HbA1C (BT),HbA1C,embedding_residual,Q3,106,-0.02168238993710689,0.25677656843962754,424
+HbA1C (BT),HbA1C,embedding_residual,Q4,106,-0.03282501038254877,0.2670509419170873,424
+LDL cholesterol (BT),LDL cholesterol,embedding_residual,Q1,70,-3.0367857142857164,21.94230451069464,279
+LDL cholesterol (BT),LDL cholesterol,embedding_residual,Q2,70,-6.757809523809526,30.313052542956637,279
+LDL cholesterol (BT),LDL cholesterol,embedding_residual,Q3,69,-1.4698067632850274,19.978908052132738,279
+LDL cholesterol (BT),LDL cholesterol,embedding_residual,Q4,70,-8.031309523809524,32.832017876113866,279
+Liver attenuation (US),Liver attenuation,embedding_residual,Q1,1085,-0.010286726514932659,0.14984125396866738,4339
+Liver attenuation (US),Liver attenuation,embedding_residual,Q2,1085,-0.011410319389312319,0.15013891110902408,4339
+Liver attenuation (US),Liver attenuation,embedding_residual,Q3,1084,-0.014819173541709163,0.14754624492594895,4339
+Liver attenuation (US),Liver attenuation,embedding_residual,Q4,1085,-0.012069109787292847,0.15199368681957867,4339
+Liver elasticity (US),Liver elasticity,embedding_residual,Q1,1086,-0.04985649848430794,1.0913745937993395,4344
+Liver elasticity (US),Liver elasticity,embedding_residual,Q2,1086,-0.0764302689182025,1.0871320039195602,4344
+Liver elasticity (US),Liver elasticity,embedding_residual,Q3,1086,-0.1523791111414025,1.1262408702075188,4344
+Liver elasticity (US),Liver elasticity,embedding_residual,Q4,1086,-0.045800400803193975,1.144301605070441,4344
+Liver sound speed (US),Liver sound speed,embedding_residual,Q1,1090,11.853751609883432,37.61915422856909,4360
+Liver sound speed (US),Liver sound speed,embedding_residual,Q2,1090,10.393231826521829,38.34603255045065,4360
+Liver sound speed (US),Liver sound speed,embedding_residual,Q3,1090,11.499247240679564,37.098470676249526,4360
+Liver sound speed (US),Liver sound speed,embedding_residual,Q4,1090,9.116057006222974,36.41574659867541,4360
+Liver viscosity (US),Liver viscosity,embedding_residual,Q1,1089,-0.07033554444859061,0.28274569481035755,4356
+Liver viscosity (US),Liver viscosity,embedding_residual,Q2,1089,-0.07771475217174907,0.28417095009244264,4356
+Liver viscosity (US),Liver viscosity,embedding_residual,Q3,1089,-0.06899230122830015,0.2716406537809898,4356
+Liver viscosity (US),Liver viscosity,embedding_residual,Q4,1089,-0.0486867488591339,0.2836087987340572,4356
+Mean Oxygen Saturation (SM),Mean Oxygen Saturation,embedding_residual,Q1,945,-0.32801959564752925,0.8344855795824957,3779
+Mean Oxygen Saturation (SM),Mean Oxygen Saturation,embedding_residual,Q2,945,-0.3526980043948266,0.7442819217669352,3779
+Mean Oxygen Saturation (SM),Mean Oxygen Saturation,embedding_residual,Q3,944,-0.3931027140714158,0.7458722246158355,3779
+Mean Oxygen Saturation (SM),Mean Oxygen Saturation,embedding_residual,Q4,945,-0.44084349691545166,0.7738530802264656,3779
+Median Daily Sodium,Median Daily Sodium,embedding_residual,Q1,1084,0.06826520170938798,0.5464508802668397,4333
+Median Daily Sodium,Median Daily Sodium,embedding_residual,Q2,1083,0.08706867434136997,0.9361414154421033,4333
+Median Daily Sodium,Median Daily Sodium,embedding_residual,Q3,1083,0.048701455354657155,0.3786870245234601,4333
+Median Daily Sodium,Median Daily Sodium,embedding_residual,Q4,1083,0.03841708916934296,0.3351610386236615,4333
+Median daily caloric intake (DL),Median daily caloric intake,embedding_residual,Q1,1084,-240.2467281601046,469.47654200948637,4333
+Median daily caloric intake (DL),Median daily caloric intake,embedding_residual,Q2,1083,-241.04266960385277,458.9100173198795,4333
+Median daily caloric intake (DL),Median daily caloric intake,embedding_residual,Q3,1083,-241.25113130893186,439.7838990575241,4333
+Median daily caloric intake (DL),Median daily caloric intake,embedding_residual,Q4,1083,-250.5405798026985,469.3635398085189,4333
+Median daily carbohydrate caloric intake  (DL),Median daily carbohydrate caloric intake,embedding_residual,Q1,1084,-0.016096806116578686,0.09236734433209083,4333
+Median daily carbohydrate caloric intake  (DL),Median daily carbohydrate caloric intake,embedding_residual,Q2,1083,-0.01453083328913332,0.08629892246983756,4333
+Median daily carbohydrate caloric intake  (DL),Median daily carbohydrate caloric intake,embedding_residual,Q3,1083,-0.016942887985474227,0.09060143945971104,4333
+Median daily carbohydrate caloric intake  (DL),Median daily carbohydrate caloric intake,embedding_residual,Q4,1083,-0.015558286449691022,0.09081822964038676,4333
+Median daily lipid caloric intake(DL),Median daily lipid caloric intake,embedding_residual,Q1,1084,0.006213130498244237,0.07718958421015842,4333
+Median daily lipid caloric intake(DL),Median daily lipid caloric intake,embedding_residual,Q2,1083,0.004180482976056547,0.07502335098114205,4333
+Median daily lipid caloric intake(DL),Median daily lipid caloric intake,embedding_residual,Q3,1083,0.004357569413706408,0.08001382116132234,4333
+Median daily lipid caloric intake(DL),Median daily lipid caloric intake,embedding_residual,Q4,1083,0.00983872036958243,0.07794179968510125,4333
+Median daily protein caloric intake  (DL),Median daily protein caloric intake,embedding_residual,Q1,1084,0.009474746236916262,0.04221953884798364,4333
+Median daily protein caloric intake  (DL),Median daily protein caloric intake,embedding_residual,Q2,1083,0.008883680407527439,0.04062413130100194,4333
+Median daily protein caloric intake  (DL),Median daily protein caloric intake,embedding_residual,Q3,1083,0.010689011943297229,0.04222329817358698,4333
+Median daily protein caloric intake  (DL),Median daily protein caloric intake,embedding_residual,Q4,1083,0.008127320721811779,0.04170381314385775,4333
+Neck Circumference,Neck Circumference,embedding_residual,Q1,448,-0.519866134439196,2.0841970367100826,1791
+Neck Circumference,Neck Circumference,embedding_residual,Q2,448,-0.25513388855116687,2.017068182363989,1791
+Neck Circumference,Neck Circumference,embedding_residual,Q3,447,-0.5243847567496417,1.976228816914297,1791
+Neck Circumference,Neck Circumference,embedding_residual,Q4,448,-0.3747767763478417,2.4015212143498217,1791
+ODI (SM),ODI,embedding_residual,Q1,932,0.4140721075863768,3.2242102511620634,3728
+ODI (SM),ODI,embedding_residual,Q2,932,0.41628301636915777,2.3253800891215235,3728
+ODI (SM),ODI,embedding_residual,Q3,932,0.36811771521466236,2.5805300801109134,3728
+ODI (SM),ODI,embedding_residual,Q4,932,0.043540579273127746,3.8650042656727965,3728
+Platelet count (BT),Platelet count,embedding_residual,Q1,1051,-1.5835816419297504,28.83581919618674,4202
+Platelet count (BT),Platelet count,embedding_residual,Q2,1050,-2.4131108277716486,30.207375201917735,4202
+Platelet count (BT),Platelet count,embedding_residual,Q3,1050,-2.7648734503840577,29.58086626159384,4202
+Platelet count (BT),Platelet count,embedding_residual,Q4,1051,-2.1864720864043985,27.98065264025885,4202
+RDI (SM),RDI,embedding_residual,Q1,945,1.6092948168427188,6.162928961384129,3777
+RDI (SM),RDI,embedding_residual,Q2,944,1.1255216298989426,5.8957894773849375,3777
+RDI (SM),RDI,embedding_residual,Q3,944,0.2522970670840313,7.067388133235212,3777
+RDI (SM),RDI,embedding_residual,Q4,944,-2.06112481661255,8.345374118160624,3777
+Rem Latency,REM latency,embedding_residual,Q1,951,1.1389293740203998,2468.4396152961067,3803
+Rem Latency,REM latency,embedding_residual,Q2,951,94.17727245749126,2357.301918233703,3803
+Rem Latency,REM latency,embedding_residual,Q3,950,-107.2718212407961,2537.286419548212,3803
+Rem Latency,REM latency,embedding_residual,Q4,951,-275.7213432371441,2729.1632211316833,3803
+Saturated Fat,Saturated Fat,embedding_residual,Q1,1084,-2.452853511362993,8.608258674535941,4333
+Saturated Fat,Saturated Fat,embedding_residual,Q2,1083,-2.9662518830458953,8.156196754654534,4333
+Saturated Fat,Saturated Fat,embedding_residual,Q3,1083,-2.95875792240059,8.271716711169516,4333
+Saturated Fat,Saturated Fat,embedding_residual,Q4,1083,-2.8241622544622653,7.857021718828511,4333
+Scanned VAT mass (DXA),Scanned VAT mass,embedding_residual,Q1,951,0.011967520834242877,0.36767628943734443,3804
+Scanned VAT mass (DXA),Scanned VAT mass,embedding_residual,Q2,951,-0.00140152540770901,0.3114437349105396,3804
+Scanned VAT mass (DXA),Scanned VAT mass,embedding_residual,Q3,951,0.006271526391357767,0.32671815698036766,3804
+Scanned VAT mass (DXA),Scanned VAT mass,embedding_residual,Q4,951,0.00470859906832857,0.31005455457165676,3804
+Sitting BP diastolic,Sitting BP diastolic,embedding_residual,Q1,1290,-5.3317829457364345,9.322262321242356,5157
+Sitting BP diastolic,Sitting BP diastolic,embedding_residual,Q2,1289,-4.961210240496509,9.344928396351602,5157
+Sitting BP diastolic,Sitting BP diastolic,embedding_residual,Q3,1289,-4.984484096198604,9.164799391677514,5157
+Sitting BP diastolic,Sitting BP diastolic,embedding_residual,Q4,1289,-4.840961986035687,9.28242165972304,5157
+Sitting BP systolic,Sitting BP systolic,embedding_residual,Q1,1290,-1.4069767441860466,13.105685380827783,5157
+Sitting BP systolic,Sitting BP systolic,embedding_residual,Q2,1289,-1.1799844840961986,13.39533395398896,5157
+Sitting BP systolic,Sitting BP systolic,embedding_residual,Q3,1289,-1.3103180760279287,13.124874230973543,5157
+Sitting BP systolic,Sitting BP systolic,embedding_residual,Q4,1289,-1.0620636152055858,13.851896155568218,5157
+SleepEfficiancy,Sleep Efficiency,embedding_residual,Q1,964,0.48892678702199127,4.832015305871471,3856
+SleepEfficiancy,Sleep Efficiency,embedding_residual,Q2,964,-0.5775199580617928,4.142635552312754,3856
+SleepEfficiancy,Sleep Efficiency,embedding_residual,Q3,964,-0.8388131345190231,3.759379234279555,3856
+SleepEfficiancy,Sleep Efficiency,embedding_residual,Q4,964,-0.9671631893072874,3.803034463990383,3856
+Snore DB,Snore DB,embedding_residual,Q1,914,0.10023345442083331,0.8170006755907171,3656
+Snore DB,Snore DB,embedding_residual,Q2,914,0.06486834123087366,0.7306009516926366,3656
+Snore DB,Snore DB,embedding_residual,Q3,914,0.06739230296140561,0.8156820036232595,3656
+Snore DB,Snore DB,embedding_residual,Q4,914,0.06724329041945395,0.9480893196999176,3656
+Total Bone Density,Total Bone Density,embedding_residual,Q1,1030,0.0023742340582524296,0.033695109662554595,4120
+Total Bone Density,Total Bone Density,embedding_residual,Q2,1030,-0.0003518724019417487,0.033257742120196956,4120
+Total Bone Density,Total Bone Density,embedding_residual,Q3,1030,0.0036517063262135937,0.034636917265902886,4120
+Total Bone Density,Total Bone Density,embedding_residual,Q4,1030,0.0010158709669902959,0.03535275103859061,4120
+Total Sleep Time (SM),Total Sleep Time,embedding_residual,Q1,967,-0.17496020691391942,1.165052666278754,3867
+Total Sleep Time (SM),Total Sleep Time,embedding_residual,Q2,967,-0.2415409820554156,1.1395864074648432,3867
+Total Sleep Time (SM),Total Sleep Time,embedding_residual,Q3,966,-0.24877176757526887,1.15527950390945,3867
+Total Sleep Time (SM),Total Sleep Time,embedding_residual,Q4,967,-0.2140641893002662,1.094867199358648,3867
+Total Wake Time (SM),Total Wake Time,embedding_residual,Q1,967,0.037819992212009365,0.24160024285441817,3866
+Total Wake Time (SM),Total Wake Time,embedding_residual,Q2,966,0.015023099801140442,0.25978431270183927,3866
+Total Wake Time (SM),Total Wake Time,embedding_residual,Q3,966,-0.0053498516719786915,0.28015134484459636,3866
+Total Wake Time (SM),Total Wake Time,embedding_residual,Q4,967,-0.07153372699186139,0.3155799314217393,3866
+Total cholesterol (BT),Total cholesterol,embedding_residual,Q1,253,-2.597101449275362,30.220634784987038,1010
+Total cholesterol (BT),Total cholesterol,embedding_residual,Q2,252,1.0109854497354491,29.3968506944819,1010
+Total cholesterol (BT),Total cholesterol,embedding_residual,Q3,252,-2.4967923280423263,30.01741585220294,1010
+Total cholesterol (BT),Total cholesterol,embedding_residual,Q4,253,1.2409753448804315,29.019759616483494,1010
+Total fat mass (DXA),Total fat mass,embedding_residual,Q1,1021,71.71721103462072,3772.9783754986233,4081
+Total fat mass (DXA),Total fat mass,embedding_residual,Q2,1020,79.20479642763132,3481.573170621682,4081
+Total fat mass (DXA),Total fat mass,embedding_residual,Q3,1020,-4.2959592617889335,3275.3072550505553,4081
+Total fat mass (DXA),Total fat mass,embedding_residual,Q4,1020,-174.6604823095392,3501.286037930988,4081
+Triglycerides (BT),Triglycerides,embedding_residual,Q1,253,-3.870588389392157,37.755108033942804,1012
+Triglycerides (BT),Triglycerides,embedding_residual,Q2,253,-5.039084077793681,41.767777233776414,1012
+Triglycerides (BT),Triglycerides,embedding_residual,Q3,253,-3.7129349044496682,35.13812509764212,1012
+Triglycerides (BT),Triglycerides,embedding_residual,Q4,253,-5.487832256245416,40.501284263969644,1012
+Vessel density (FI),Vessel density,embedding_residual,Q1,434,-0.005253722664843345,0.00507203911589055,1736
+Vessel density (FI),Vessel density,embedding_residual,Q2,434,-0.005773373651038316,0.004652109537985456,1736
+Vessel density (FI),Vessel density,embedding_residual,Q3,434,-0.005641449695439784,0.004604382059761294,1736
+Vessel density (FI),Vessel density,embedding_residual,Q4,434,-0.006006187720113804,0.00486394318170762,1736
+WBC (BT),WBC,embedding_residual,Q1,1076,-0.1039795247037351,1.1525511818814627,4304
+WBC (BT),WBC,embedding_residual,Q2,1076,-0.14535207939822264,1.1146209822651634,4304
+WBC (BT),WBC,embedding_residual,Q3,1076,-0.07899870019809274,1.1317677700627435,4304
+WBC (BT),WBC,embedding_residual,Q4,1076,-0.11778069081658718,1.071661849194053,4304
+Waist circumference,Waist circumference,embedding_residual,Q1,1291,-0.8460108537622241,6.935658168403525,5161
+Waist circumference,Waist circumference,embedding_residual,Q2,1290,-0.419689914792083,6.873074025949891,5161
+Waist circumference,Waist circumference,embedding_residual,Q3,1290,-0.8066666743552038,6.984374809778279,5161
+Waist circumference,Waist circumference,embedding_residual,Q4,1290,-0.854341057474299,6.8432057943575275,5161
+bt__hemoglobin,Hemoglobin,embedding_residual,Q1,371,0.14983827493261453,0.5834825324430932,1484
+bt__hemoglobin,Hemoglobin,embedding_residual,Q2,371,0.1641374663072775,0.67322965839588,1484
+bt__hemoglobin,Hemoglobin,embedding_residual,Q3,371,0.14940700808625343,0.7028065735624887,1484
+bt__hemoglobin,Hemoglobin,embedding_residual,Q4,371,0.1345283018867924,0.653342636924811,1484
+eGFR (BT),eGFR,embedding_residual,Q1,295,-3.327705146306172,9.526737810111227,1177
+eGFR (BT),eGFR,embedding_residual,Q2,294,-3.4864694593919467,8.787900925758834,1177
+eGFR (BT),eGFR,embedding_residual,Q3,294,-3.706840834349369,8.511913814770521,1177
+eGFR (BT),eGFR,embedding_residual,Q4,294,-2.4829287662938473,8.996438920531658,1177
+vat/fat,VAT/fat,embedding_residual,Q1,951,-1.2145408289815393e-07,1.9919519128881972e-05,3804
+vat/fat,VAT/fat,embedding_residual,Q2,951,4.6274532443510845e-07,1.9697988448458562e-05,3804
+vat/fat,VAT/fat,embedding_residual,Q3,951,-1.2500265374130194e-08,1.541529459290533e-05,3804
+vat/fat,VAT/fat,embedding_residual,Q4,951,4.564406131615085e-08,1.49102951212696e-05,3804

@@ -1,0 +1,776 @@
+{
+  "analysis_type": "manuscript_tables",
+  "generated_at": "2026-05-06T21:38:51+00:00",
+  "source_files": [
+    "manuscript/Table 1.csv",
+    "manuscript/Supplementary Table 1.csv",
+    "manuscript/Supplementary Table 2.csv",
+    "manuscript/Supplementary Table 3.csv",
+    "manuscript/Supplementary Table 4.csv"
+  ],
+  "figure_and_table_usage": [
+    "Table 1",
+    "Supplementary Table 1",
+    "Supplementary Table 2",
+    "Supplementary Table 3",
+    "Supplementary Table 4"
+  ],
+  "data": {
+    "Table 1.csv": [
+      {
+        "Characteristic": "Country",
+        "HPP cohort (train + validation sets)": "Israel",
+        "HPP cohort (test set)": "Israel",
+        "VitalDB cohort": "South Korea"
+      },
+      {
+        "Characteristic": "Total monitoring time, h",
+        "HPP cohort (train + validation sets)": 291221.87,
+        "HPP cohort (test set)": 19042.53,
+        "VitalDB cohort": 18206.19
+      },
+      {
+        "Characteristic": "Participants, n",
+        "HPP cohort (train + validation sets)": 10704,
+        "HPP cohort (test set)": 607,
+        "VitalDB cohort": 6156
+      },
+      {
+        "Characteristic": "Recordings, n",
+        "HPP cohort (train + validation sets)": 42282,
+        "HPP cohort (test set)": 2786,
+        "VitalDB cohort": "NA"
+      },
+      {
+        "Characteristic": "2-minute segments, n",
+        "HPP cohort (train + validation sets)": 8736656,
+        "HPP cohort (test set)": 571276,
+        "VitalDB cohort": "NA"
+      },
+      {
+        "Characteristic": "Female, n (%)",
+        "HPP cohort (train + validation sets)": "5560 (51.9%)",
+        "HPP cohort (test set)": "321 (52.9%)",
+        "VitalDB cohort": "3029 (49.2%)"
+      },
+      {
+        "Characteristic": "Male, n (%)",
+        "HPP cohort (train + validation sets)": "5108 (47.7%)",
+        "HPP cohort (test set)": "286 (47.1%)",
+        "VitalDB cohort": "3127 (50.8%)"
+      },
+      {
+        "Characteristic": "Age, mean +/- s.d. (years)",
+        "HPP cohort (train + validation sets)": "51.02 +/- 9.06",
+        "HPP cohort (test set)": "51.65 +/- 7.76",
+        "VitalDB cohort": "57.30 +/- 14.98"
+      },
+      {
+        "Characteristic": "BMI, mean +/- s.d. (kg/m^2)",
+        "HPP cohort (train + validation sets)": "26.06 +/- 4.20",
+        "HPP cohort (test set)": "25.89 +/- 3.85",
+        "VitalDB cohort": "23.28 +/- 3.62"
+      }
+    ],
+    "Supplementary Table 1.csv": [
+      {
+        "Medication_Category": "AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM",
+        "Medication_or_ATC_Group_Used_in_Analysis": "AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM",
+        "Prevalence_N_Total": "330/4563",
+        "Prevalence_Percent": 7.2
+      },
+      {
+        "Medication_Category": "ANTIANEMIC PREPARATIONS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "ANTIANEMIC PREPARATIONS",
+        "Prevalence_N_Total": "334/4563",
+        "Prevalence_Percent": 7.3
+      },
+      {
+        "Medication_Category": "ANTIGOUT PREPARATIONS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "ANTIGOUT PREPARATIONS",
+        "Prevalence_N_Total": "46/4563",
+        "Prevalence_Percent": 1.0
+      },
+      {
+        "Medication_Category": "ANTIHISTAMINES FOR SYSTEMIC USE",
+        "Medication_or_ATC_Group_Used_in_Analysis": "ANTIHISTAMINES FOR SYSTEMIC USE",
+        "Prevalence_N_Total": "60/4563",
+        "Prevalence_Percent": 1.3
+      },
+      {
+        "Medication_Category": "ANTITHROMBOTIC AGENTS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "ANTITHROMBOTIC AGENTS",
+        "Prevalence_N_Total": "199/4563",
+        "Prevalence_Percent": 4.4
+      },
+      {
+        "Medication_Category": "CALCIUM CHANNEL BLOCKERS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "CALCIUM CHANNEL BLOCKERS",
+        "Prevalence_N_Total": "85/4563",
+        "Prevalence_Percent": 1.9
+      },
+      {
+        "Medication_Category": "DRUGS FOR ACID RELATED DISORDERS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "DRUGS FOR ACID RELATED DISORDERS",
+        "Prevalence_N_Total": "195/4563",
+        "Prevalence_Percent": 4.3
+      },
+      {
+        "Medication_Category": "DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES",
+        "Medication_or_ATC_Group_Used_in_Analysis": "DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES",
+        "Prevalence_N_Total": "64/4563",
+        "Prevalence_Percent": 1.4
+      },
+      {
+        "Medication_Category": "DRUGS FOR TREATMENT OF BONE DISEASES",
+        "Medication_or_ATC_Group_Used_in_Analysis": "DRUGS FOR TREATMENT OF BONE DISEASES",
+        "Prevalence_N_Total": "49/4563",
+        "Prevalence_Percent": 1.1
+      },
+      {
+        "Medication_Category": "DRUGS USED IN DIABETES",
+        "Medication_or_ATC_Group_Used_in_Analysis": "DRUGS USED IN DIABETES",
+        "Prevalence_N_Total": "90/4563",
+        "Prevalence_Percent": 2.0
+      },
+      {
+        "Medication_Category": "LIPID MODIFYING AGENTS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "LIPID MODIFYING AGENTS",
+        "Prevalence_N_Total": "767/4563",
+        "Prevalence_Percent": 16.8
+      },
+      {
+        "Medication_Category": "MINERAL SUPPLEMENTS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "MINERAL SUPPLEMENTS",
+        "Prevalence_N_Total": "412/4563",
+        "Prevalence_Percent": 9.0
+      },
+      {
+        "Medication_Category": "PSYCHOANALEPTICS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "PSYCHOANALEPTICS",
+        "Prevalence_N_Total": "343/4563",
+        "Prevalence_Percent": 7.5
+      },
+      {
+        "Medication_Category": "PSYCHOLEPTICS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "PSYCHOLEPTICS",
+        "Prevalence_N_Total": "48/4563",
+        "Prevalence_Percent": 1.1
+      },
+      {
+        "Medication_Category": "SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",
+        "Medication_or_ATC_Group_Used_in_Analysis": "SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM",
+        "Prevalence_N_Total": "239/4563",
+        "Prevalence_Percent": 5.2
+      },
+      {
+        "Medication_Category": "THYROID THERAPY DRUGS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "THYROID THERAPY DRUGS",
+        "Prevalence_N_Total": "258/4563",
+        "Prevalence_Percent": 5.7
+      },
+      {
+        "Medication_Category": "UROLOGICALS",
+        "Medication_or_ATC_Group_Used_in_Analysis": "UROLOGICALS",
+        "Prevalence_N_Total": "108/4563",
+        "Prevalence_Percent": 2.4
+      },
+      {
+        "Medication_Category": "beta-Adrenergic Blocking Agents",
+        "Medication_or_ATC_Group_Used_in_Analysis": "beta-Adrenergic Blocking Agents",
+        "Prevalence_N_Total": "98/4563",
+        "Prevalence_Percent": 2.1
+      }
+    ],
+    "Supplementary Table 2.csv": [
+      {
+        "Disease_Category": "Cardiovascular disorders",
+        "Disease_Used_in_Analysis": "Heart valve disease",
+        "Prevalence_N_Total": "114/7817",
+        "Prevalence_Percent": 1.5
+      },
+      {
+        "Disease_Category": "Cardiovascular disorders",
+        "Disease_Used_in_Analysis": "Hypertension",
+        "Prevalence_N_Total": "991/7817",
+        "Prevalence_Percent": 12.7
+      },
+      {
+        "Disease_Category": "Metabolic, endocrine and reproductive disorders",
+        "Disease_Used_in_Analysis": "Fatty Liver Disease",
+        "Prevalence_N_Total": "505/7817",
+        "Prevalence_Percent": 6.5
+      },
+      {
+        "Disease_Category": "Metabolic, endocrine and reproductive disorders",
+        "Disease_Used_in_Analysis": "Gout",
+        "Prevalence_N_Total": "103/7817",
+        "Prevalence_Percent": 1.3
+      },
+      {
+        "Disease_Category": "Metabolic, endocrine and reproductive disorders",
+        "Disease_Used_in_Analysis": "Hyperlipidemia",
+        "Prevalence_N_Total": "2122/7817",
+        "Prevalence_Percent": 27.1
+      },
+      {
+        "Disease_Category": "Metabolic, endocrine and reproductive disorders",
+        "Disease_Used_in_Analysis": "Obesity",
+        "Prevalence_N_Total": "488/7817",
+        "Prevalence_Percent": 6.2
+      },
+      {
+        "Disease_Category": "Metabolic, endocrine and reproductive disorders",
+        "Disease_Used_in_Analysis": "Polycystic Ovary Disease",
+        "Prevalence_N_Total": "182/7817",
+        "Prevalence_Percent": 2.3
+      },
+      {
+        "Disease_Category": "Metabolic, endocrine and reproductive disorders",
+        "Disease_Used_in_Analysis": "Prediabetes",
+        "Prevalence_N_Total": "712/7817",
+        "Prevalence_Percent": 9.1
+      },
+      {
+        "Disease_Category": "Sleep disorders and mental health",
+        "Disease_Used_in_Analysis": "Anxiety",
+        "Prevalence_N_Total": "256/7817",
+        "Prevalence_Percent": 3.3
+      },
+      {
+        "Disease_Category": "Sleep disorders and mental health",
+        "Disease_Used_in_Analysis": "Depression",
+        "Prevalence_N_Total": "252/7817",
+        "Prevalence_Percent": 3.2
+      },
+      {
+        "Disease_Category": "Sleep disorders and mental health",
+        "Disease_Used_in_Analysis": "Insomnia",
+        "Prevalence_N_Total": "100/7817",
+        "Prevalence_Percent": 1.3
+      },
+      {
+        "Disease_Category": "Sleep disorders and mental health",
+        "Disease_Used_in_Analysis": "Sleep Apnea",
+        "Prevalence_N_Total": "270/7817",
+        "Prevalence_Percent": 3.5
+      },
+      {
+        "Disease_Category": "Gastrointestinal disorders",
+        "Disease_Used_in_Analysis": "Anal Fissure",
+        "Prevalence_N_Total": "565/7817",
+        "Prevalence_Percent": 7.2
+      },
+      {
+        "Disease_Category": "Gastrointestinal disorders",
+        "Disease_Used_in_Analysis": "Gallstone Disease",
+        "Prevalence_N_Total": "266/7817",
+        "Prevalence_Percent": 3.4
+      },
+      {
+        "Disease_Category": "Gastrointestinal disorders",
+        "Disease_Used_in_Analysis": "Haemorrhoids",
+        "Prevalence_N_Total": "1778/7817",
+        "Prevalence_Percent": 22.7
+      },
+      {
+        "Disease_Category": "Gastrointestinal disorders",
+        "Disease_Used_in_Analysis": "IBS",
+        "Prevalence_N_Total": "244/7817",
+        "Prevalence_Percent": 3.1
+      },
+      {
+        "Disease_Category": "Gastrointestinal disorders",
+        "Disease_Used_in_Analysis": "Peptic Ulcer Disease",
+        "Prevalence_N_Total": "192/7817",
+        "Prevalence_Percent": 2.5
+      },
+      {
+        "Disease_Category": "Hematologic and nutritional disorders",
+        "Disease_Used_in_Analysis": "Anemia",
+        "Prevalence_N_Total": "367/7817",
+        "Prevalence_Percent": 4.7
+      },
+      {
+        "Disease_Category": "Hematologic and nutritional disorders",
+        "Disease_Used_in_Analysis": "B12 Deficiency",
+        "Prevalence_N_Total": "401/7817",
+        "Prevalence_Percent": 5.1
+      },
+      {
+        "Disease_Category": "Hematologic and nutritional disorders",
+        "Disease_Used_in_Analysis": "G6PD",
+        "Prevalence_N_Total": "93/7817",
+        "Prevalence_Percent": 1.2
+      },
+      {
+        "Disease_Category": "Neurological and pain conditions",
+        "Disease_Used_in_Analysis": "ADHD",
+        "Prevalence_N_Total": "1401/7817",
+        "Prevalence_Percent": 17.9
+      },
+      {
+        "Disease_Category": "Neurological and pain conditions",
+        "Disease_Used_in_Analysis": "Back Pain",
+        "Prevalence_N_Total": "1601/7817",
+        "Prevalence_Percent": 20.5
+      },
+      {
+        "Disease_Category": "Neurological and pain conditions",
+        "Disease_Used_in_Analysis": "Fibromyalgia",
+        "Prevalence_N_Total": "89/7817",
+        "Prevalence_Percent": 1.1
+      },
+      {
+        "Disease_Category": "Neurological and pain conditions",
+        "Disease_Used_in_Analysis": "Headache",
+        "Prevalence_N_Total": "179/7817",
+        "Prevalence_Percent": 2.3
+      },
+      {
+        "Disease_Category": "Neurological and pain conditions",
+        "Disease_Used_in_Analysis": "Migraine",
+        "Prevalence_N_Total": "442/7817",
+        "Prevalence_Percent": 5.7
+      },
+      {
+        "Disease_Category": "Immune and allergic diseases",
+        "Disease_Used_in_Analysis": "Allergy",
+        "Prevalence_N_Total": "1637/7817",
+        "Prevalence_Percent": 20.9
+      },
+      {
+        "Disease_Category": "Immune and allergic diseases",
+        "Disease_Used_in_Analysis": "Asthma",
+        "Prevalence_N_Total": "516/7817",
+        "Prevalence_Percent": 6.6
+      },
+      {
+        "Disease_Category": "Immune and allergic diseases",
+        "Disease_Used_in_Analysis": "Atopic Dermatitis",
+        "Prevalence_N_Total": "244/7817",
+        "Prevalence_Percent": 3.1
+      },
+      {
+        "Disease_Category": "Immune and allergic diseases",
+        "Disease_Used_in_Analysis": "Psoriasis",
+        "Prevalence_N_Total": "244/7817",
+        "Prevalence_Percent": 3.1
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Fractures",
+        "Prevalence_N_Total": "763/7817",
+        "Prevalence_Percent": 9.8
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Hearing loss",
+        "Prevalence_N_Total": "377/7817",
+        "Prevalence_Percent": 4.8
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Oral apthae",
+        "Prevalence_N_Total": "364/7817",
+        "Prevalence_Percent": 4.7
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Osteoarthritis",
+        "Prevalence_N_Total": "269/7817",
+        "Prevalence_Percent": 3.4
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Sinusitis",
+        "Prevalence_N_Total": "254/7817",
+        "Prevalence_Percent": 3.2
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Urinary Tract Stones",
+        "Prevalence_N_Total": "287/7817",
+        "Prevalence_Percent": 3.7
+      },
+      {
+        "Disease_Category": "Other",
+        "Disease_Used_in_Analysis": "Urinary tract infection",
+        "Prevalence_N_Total": "740/7817",
+        "Prevalence_Percent": 9.5
+      }
+    ],
+    "Supplementary Table 3.csv": [
+      {
+        "Dataset": "HPP pretraining set (train + validation)",
+        "Model_or_features": "PulseOx-FM",
+        "N_Participants": 10704,
+        "Pearson_r": "0.79 \u00b1 0.00",
+        "R2": "0.63 \u00b1 0.00",
+        "MAE": "3.86 \u00b1 0.00"
+      },
+      {
+        "Dataset": "HPP pretraining set (train + validation)",
+        "Model_or_features": "PyPPG",
+        "N_Participants": 10704,
+        "Pearson_r": "0.75 \u00b1 0.00",
+        "R2": "0.56 \u00b1 0.00",
+        "MAE": "4.23 \u00b1 0.00"
+      },
+      {
+        "Dataset": "HPP pretraining set (train + validation)",
+        "Model_or_features": "WatchPAT",
+        "N_Participants": 10704,
+        "Pearson_r": "0.64 \u00b1 0.00",
+        "R2": "0.41 \u00b1 0.00",
+        "MAE": "4.97 \u00b1 0.00"
+      },
+      {
+        "Dataset": "HPP pretraining set (train + validation)",
+        "Model_or_features": "Ensemble of PulseOx-FM + PyPPG",
+        "N_Participants": 10704,
+        "Pearson_r": "0.80 \u00b1 0.00",
+        "R2": "0.64 \u00b1 0.00",
+        "MAE": "3.84 \u00b1 0.00"
+      },
+      {
+        "Dataset": "HPP test set",
+        "Model_or_features": "PulseOx-FM",
+        "N_Participants": 606,
+        "Pearson_r": "0.69 \u00b1 0.00",
+        "R2": "0.48 \u00b1 0.00",
+        "MAE": "4.64 \u00b1 0.00"
+      },
+      {
+        "Dataset": "HPP test set",
+        "Model_or_features": "PyPPG",
+        "N_Participants": 606,
+        "Pearson_r": "0.65 \u00b1 0.00",
+        "R2": "0.42 \u00b1 0.00",
+        "MAE": "4.92 \u00b1 0.00"
+      },
+      {
+        "Dataset": "VitalDB cohort",
+        "Model_or_features": "PulseOx-FM",
+        "N_Participants": 6153,
+        "Pearson_r": "0.70 \u00b1 0.00",
+        "R2": "0.49 \u00b1 0.00",
+        "MAE": "8.29 \u00b1 0.00"
+      },
+      {
+        "Dataset": "VitalDB cohort",
+        "Model_or_features": "PyPPG",
+        "N_Participants": 6153,
+        "Pearson_r": "0.71 \u00b1 0.00",
+        "R2": "0.50 \u00b1 0.00",
+        "MAE": "8.19 \u00b1 0.00"
+      },
+      {
+        "Dataset": "HPP test set",
+        "Model_or_features": "Ensemble of PulseOx-FM + PyPPG",
+        "N_Participants": 2772,
+        "Pearson_r": 0.72,
+        "R2": 0.52,
+        "MAE": 4.5
+      },
+      {
+        "Dataset": "VitalDB cohort",
+        "Model_or_features": "Ensemble of PulseOx-FM + PyPPG",
+        "N_Participants": 6153,
+        "Pearson_r": 0.73,
+        "R2": 0.54,
+        "MAE": 7.95
+      }
+    ],
+    "Supplementary Table 4.csv": [
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current medication intake",
+        "Target": "LIPID MODIFYING AGENTS",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.65 \u00b1 0.00",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.68 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.18 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.13 \u00b1 0.01",
+        "p_combined_vs_demo": 0.00283886,
+        "BH_FDR_q": 0.0300919,
+        "N_positive_over_N_participants_baseline": "746/5169",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current medication intake",
+        "Target": "AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.72 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.77 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.11 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.06 \u00b1 0.00",
+        "p_combined_vs_demo": 0.00408275,
+        "BH_FDR_q": 0.0360643,
+        "N_positive_over_N_participants_baseline": "327/5169",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current medication intake",
+        "Target": "CALCIUM CHANNEL BLOCKERS",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.69 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.76 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.01 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.01 \u00b1 0.00",
+        "p_combined_vs_demo": 0.00178044,
+        "BH_FDR_q": 0.0300919,
+        "N_positive_over_N_participants_baseline": "80/5169",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current medication intake",
+        "Target": "beta-Adrenergic Blocking Agents",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.70 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.78 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.01 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.01 \u00b1 0.01",
+        "p_combined_vs_demo": 0.0057396,
+        "BH_FDR_q": 0.0400948,
+        "N_positive_over_N_participants_baseline": "100/5169",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current medication intake",
+        "Target": "PSYCHOLEPTICS",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.50 \u00b1 0.03",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.58 \u00b1 0.01",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": 0.0,
+        "F1_embeddings_mean_sd": 0.0,
+        "p_combined_vs_demo": 0.012427,
+        "BH_FDR_q": 0.0598757,
+        "N_positive_over_N_participants_baseline": "56/5169",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current medication intake",
+        "Target": "PSYCHOANALEPTICS",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.49 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.70 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.02 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.11 \u00b1 0.01",
+        "p_combined_vs_demo": 0.000290398,
+        "BH_FDR_q": 0.00769553,
+        "N_positive_over_N_participants_baseline": "391/5169",
+        "Significance_stars_demo_vs_emb": "***"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Allergy",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.52 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.54 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.13 \u00b1 0.00",
+        "F1_embeddings_mean_sd": "0.11 \u00b1 0.01",
+        "p_combined_vs_demo": 0.00241482,
+        "BH_FDR_q": 0.0300919,
+        "N_positive_over_N_participants_baseline": "744/3293",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "IBS",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.50 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.54 \u00b1 0.01",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.01 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.00 \u00b1 0.00",
+        "p_combined_vs_demo": 0.0149164,
+        "BH_FDR_q": 0.0608131,
+        "N_positive_over_N_participants_baseline": "111/3293",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "G6PD",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.49 \u00b1 0.02",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.54 \u00b1 0.01",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.01 \u00b1 0.02",
+        "F1_embeddings_mean_sd": 0.0,
+        "p_combined_vs_demo": 0.0102813,
+        "BH_FDR_q": 0.0544908,
+        "N_positive_over_N_participants_baseline": "41/3293",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Peptic Ulcer Disease",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.46 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.52 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": 0.0,
+        "F1_embeddings_mean_sd": 0.0,
+        "p_combined_vs_demo": 0.0210843,
+        "BH_FDR_q": 0.075331,
+        "N_positive_over_N_participants_baseline": "78/3293",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Depression",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.50 \u00b1 0.02",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.56 \u00b1 0.01",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.01 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.02 \u00b1 0.01",
+        "p_combined_vs_demo": 0.0213201,
+        "BH_FDR_q": 0.075331,
+        "N_positive_over_N_participants_baseline": "111/3293",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Anemia",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.55 \u00b1 0.02",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.62 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.04 \u00b1 0.01",
+        "F1_embeddings_mean_sd": "0.03 \u00b1 0.01",
+        "p_combined_vs_demo": 0.0146453,
+        "BH_FDR_q": 0.0608131,
+        "N_positive_over_N_participants_baseline": "169/3293",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Hypertension",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.67 \u00b1 0.00",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.74 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.10 \u00b1 0.02",
+        "F1_embeddings_mean_sd": "0.19 \u00b1 0.01",
+        "p_combined_vs_demo": 3.81e-05,
+        "BH_FDR_q": 0.00201704,
+        "N_positive_over_N_participants_baseline": "393/3293",
+        "Significance_stars_demo_vs_emb": "***"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Anxiety",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.53 \u00b1 0.00",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.62 \u00b1 0.01",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": "0.04 \u00b1 0.02",
+        "F1_embeddings_mean_sd": "0.03 \u00b1 0.00",
+        "p_combined_vs_demo": 0.00680855,
+        "BH_FDR_q": 0.0400948,
+        "N_positive_over_N_participants_baseline": "107/3293",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "HPP sleep cohort \u2014 current diagnoses",
+        "Target": "Heart valve disease",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.47 \u00b1 0.01",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.57 \u00b1 0.02",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": 0.0,
+        "F1_embeddings_mean_sd": 0.0,
+        "p_combined_vs_demo": 0.00676412,
+        "BH_FDR_q": 0.0400948,
+        "N_positive_over_N_participants_baseline": "51/3293",
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "VitalDB \u2014 preoperative diagnoses",
+        "Target": "Preoperative diabetes",
+        "Task_type": "classification",
+        "Figure_primary_metric": "ROC AUC",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.66 \u00b1 0.00",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.67 \u00b1 0.00",
+        "R2_demo_mean_sd": null,
+        "R2_embeddings_mean_sd": null,
+        "F1_demo_mean_sd": null,
+        "F1_embeddings_mean_sd": null,
+        "p_combined_vs_demo": 0.0407375,
+        "BH_FDR_q": 0.0678959,
+        "N_positive_over_N_participants_baseline": "626/6154",
+        "Significance_stars_demo_vs_emb": "*"
+      },
+      {
+        "Cohort_and_panel": "VitalDB \u2014 preoperative measures",
+        "Target": "Preoperative glucose",
+        "Task_type": "regression",
+        "Figure_primary_metric": "Pearson r",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.21 \u00b1 0.00",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.23 \u00b1 0.00",
+        "R2_demo_mean_sd": "0.04 \u00b1 0.00",
+        "R2_embeddings_mean_sd": "0.05 \u00b1 0.00",
+        "F1_demo_mean_sd": null,
+        "F1_embeddings_mean_sd": null,
+        "p_combined_vs_demo": 0.00197981,
+        "BH_FDR_q": 0.00494952,
+        "N_positive_over_N_participants_baseline": 5791,
+        "Significance_stars_demo_vs_emb": "**"
+      },
+      {
+        "Cohort_and_panel": "VitalDB \u2014 preoperative measures",
+        "Target": "Preoperative hemoglobin",
+        "Task_type": "regression",
+        "Figure_primary_metric": "Pearson r",
+        "ROC_AUC_or_Pearson_r_demo_mean_sd": "0.45 \u00b1 0.00",
+        "ROC_AUC_or_Pearson_r_embeddings_mean_sd": "0.52 \u00b1 0.00",
+        "R2_demo_mean_sd": "0.21 \u00b1 0.00",
+        "R2_embeddings_mean_sd": "0.27 \u00b1 0.00",
+        "F1_demo_mean_sd": null,
+        "F1_embeddings_mean_sd": null,
+        "p_combined_vs_demo": 0.00168076,
+        "BH_FDR_q": 0.00494952,
+        "N_positive_over_N_participants_baseline": 5831,
+        "Significance_stars_demo_vs_emb": "**"
+      }
+    ]
+  }
+}

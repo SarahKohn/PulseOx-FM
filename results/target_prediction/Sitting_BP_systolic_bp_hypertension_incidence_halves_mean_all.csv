@@ -1,0 +1,5 @@
+target,target_name,method_suffix,split_type,split_label,group_id,group_label,bp_source,bin_label,n_group,n_nonhypertensive,n_baseline_recordings_mean_pooled,n_2y,cases_2y,percent_2y,n_4y,cases_4y,percent_4y
+Sitting BP systolic,Sitting BP systolic,mean_all,halves,median split,group1a,Measured BP Q1 (below median),measured,Q1,1465,2894,4002,76,4,5.263157894736842,0,0,
+Sitting BP systolic,Sitting BP systolic,mean_all,halves,median split,group2a,Measured BP Q2 (above median),measured,Q2,1429,2894,3952,128,24,18.75,0,0,
+Sitting BP systolic,Sitting BP systolic,mean_all,halves,median split,group1b,Predicted BP Q1 (below median),predicted,Q1,1447,2894,3934,67,4,5.970149253731343,0,0,
+Sitting BP systolic,Sitting BP systolic,mean_all,halves,median split,group2b,Predicted BP Q2 (above median),predicted,Q2,1447,2894,4020,137,24,17.51824817518248,0,0,

@@ -1,0 +1,68 @@
+Cohort_and_panel,Target,Task_type,Figure_primary_metric,ROC_AUC_or_Pearson_r_demo_mean_sd,ROC_AUC_or_Pearson_r_embeddings_mean_sd,R2_demo_mean_sd,R2_embeddings_mean_sd,F1_demo_mean_sd,F1_embeddings_mean_sd,p_combined_vs_demo,BH_FDR_q,N_positive_over_N_participants_baseline,Significance_stars_demo_vs_emb
+HPP sleep cohort — current medication intake,LIPID MODIFYING AGENTS,classification,ROC AUC,0.65 ± 0.00,0.68 ± 0.00,,,0.18 ± 0.01,0.13 ± 0.01,0.00283886,0.0300919,746/5169,**
+HPP sleep cohort — current medication intake,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,classification,ROC AUC,0.72 ± 0.01,0.77 ± 0.00,,,0.11 ± 0.01,0.06 ± 0.00,0.00408275,0.0360643,327/5169,**
+HPP sleep cohort — current medication intake,CALCIUM CHANNEL BLOCKERS,classification,ROC AUC,0.69 ± 0.01,0.76 ± 0.00,,,0.01 ± 0.01,0.01 ± 0.00,0.00178044,0.0300919,80/5169,**
+HPP sleep cohort — current medication intake,beta-Adrenergic Blocking Agents,classification,ROC AUC,0.70 ± 0.01,0.78 ± 0.00,,,0.01 ± 0.01,0.01 ± 0.01,0.0057396,0.0400948,100/5169,**
+HPP sleep cohort — current medication intake,PSYCHOLEPTICS,classification,ROC AUC,0.50 ± 0.03,0.58 ± 0.01,,,0.00,0.00,0.012427,0.0598757,56/5169,*
+HPP sleep cohort — current medication intake,PSYCHOANALEPTICS,classification,ROC AUC,0.49 ± 0.01,0.70 ± 0.00,,,0.02 ± 0.01,0.11 ± 0.01,0.000290398,0.00769553,391/5169,***
+HPP sleep cohort — current diagnoses,Allergy,classification,ROC AUC,0.52 ± 0.01,0.54 ± 0.00,,,0.13 ± 0.00,0.11 ± 0.01,0.00241482,0.0300919,744/3293,**
+HPP sleep cohort — current diagnoses,IBS,classification,ROC AUC,0.50 ± 0.01,0.54 ± 0.01,,,0.01 ± 0.01,0.00 ± 0.00,0.0149164,0.0608131,111/3293,*
+HPP sleep cohort — current diagnoses,G6PD,classification,ROC AUC,0.49 ± 0.02,0.54 ± 0.01,,,0.01 ± 0.02,0.00,0.0102813,0.0544908,41/3293,*
+HPP sleep cohort — current diagnoses,Peptic Ulcer Disease,classification,ROC AUC,0.46 ± 0.01,0.52 ± 0.00,,,0.00,0.00,0.0210843,0.075331,78/3293,*
+HPP sleep cohort — current diagnoses,Depression,classification,ROC AUC,0.50 ± 0.02,0.56 ± 0.01,,,0.01 ± 0.01,0.02 ± 0.01,0.0213201,0.075331,111/3293,*
+HPP sleep cohort — current diagnoses,Anemia,classification,ROC AUC,0.55 ± 0.02,0.62 ± 0.00,,,0.04 ± 0.01,0.03 ± 0.01,0.0146453,0.0608131,169/3293,*
+HPP sleep cohort — current diagnoses,Hypertension,classification,ROC AUC,0.67 ± 0.00,0.74 ± 0.00,,,0.10 ± 0.02,0.19 ± 0.01,3.81e-05,0.00201704,393/3293,***
+HPP sleep cohort — current diagnoses,Anxiety,classification,ROC AUC,0.53 ± 0.00,0.62 ± 0.01,,,0.04 ± 0.02,0.03 ± 0.00,0.00680855,0.0400948,107/3293,**
+HPP sleep cohort — current diagnoses,Heart valve disease,classification,ROC AUC,0.47 ± 0.01,0.57 ± 0.02,,,0.00,0.00,0.00676412,0.0400948,51/3293,**
+HPP sleep cohort — current measures,Total fat mass (DXA),regression,Pearson r,0.87 ± 0.00,0.90 ± 0.00,0.75 ± 0.00,0.81 ± 0.00,,,0.00120963,0.00189898,4416,**
+HPP sleep cohort — current measures,Waist circumference,regression,Pearson r,0.85 ± 0.00,0.87 ± 0.00,0.73 ± 0.00,0.75 ± 0.00,,,0.00679558,0.00720332,5167,**
+HPP sleep cohort — current measures,Android tissue fat percent (DXA),regression,Pearson r,0.72 ± 0.00,0.80 ± 0.00,0.49 ± 0.00,0.65 ± 0.00,,,2.40e-05,0.000181574,4416,***
+HPP sleep cohort — current measures,Hand Grip Left,regression,Pearson r,0.74 ± 0.00,0.80 ± 0.00,0.53 ± 0.00,0.64 ± 0.00,,,9.86e-05,0.000452081,5135,***
+HPP sleep cohort — current measures,Scanned VAT mass (DXA),regression,Pearson r,0.75 ± 0.00,0.79 ± 0.00,0.56 ± 0.00,0.62 ± 0.00,,,0.00105076,0.00185634,4212,**
+HPP sleep cohort — current measures,Hand Grip Right,regression,Pearson r,0.74 ± 0.00,0.79 ± 0.00,0.53 ± 0.00,0.62 ± 0.00,,,1.81e-05,0.000160079,5135,***
+HPP sleep cohort — current measures,RDI (SM),regression,Pearson r,0.36 ± 0.00,0.76 ± 0.00,0.02 ± 0.01,0.57 ± 0.00,,,1.73e-05,0.000160079,5119,***
+HPP sleep cohort — current measures,AHI (SM),regression,Pearson r,0.43 ± 0.01,0.70 ± 0.00,0.09 ± 0.02,0.48 ± 0.00,,,0.000377255,0.000833104,5116,***
+HPP sleep cohort — current measures,bt__hemoglobin,regression,Pearson r,0.61 ± 0.01,0.67 ± 0.00,0.34 ± 0.01,0.45 ± 0.00,,,0.00224867,0.00297948,3812,**
+HPP sleep cohort — current measures,ODI (SM),regression,Pearson r,0.43 ± 0.01,0.63 ± 0.00,0.09 ± 0.01,0.40 ± 0.00,,,5.78e-05,0.0003441,5086,***
+HPP sleep cohort — current measures,Total Bone Density,regression,Pearson r,0.54 ± 0.00,0.61 ± 0.00,0.25 ± 0.01,0.36 ± 0.00,,,0.000890882,0.00162816,4455,***
+HPP sleep cohort — current measures,Sitting BP systolic,regression,Pearson r,0.41 ± 0.00,0.55 ± 0.00,0.08 ± 0.00,0.30 ± 0.00,,,5.29e-06,0.000160079,5167,***
+HPP sleep cohort — current measures,Mean Oxygen Saturation (SM),regression,Pearson r,0.41 ± 0.00,0.55 ± 0.00,0.09 ± 0.00,0.29 ± 0.00,,,5.84e-05,0.0003441,5120,***
+HPP sleep cohort — current measures,HDL cholesterol (BT),regression,Pearson r,0.38 ± 0.01,0.49 ± 0.00,0.03 ± 0.02,0.23 ± 0.00,,,0.00237846,0.00307459,3407,**
+HPP sleep cohort — current measures,SleepEfficiancy,regression,Pearson r,0.04 ± 0.00,0.49 ± 0.00,-0.15 ± 0.01,0.23 ± 0.00,,,0.000102358,0.000452081,5169,***
+HPP sleep cohort — current measures,Sitting BP diastolic,regression,Pearson r,0.27 ± 0.01,0.49 ± 0.00,-0.05 ± 0.01,0.23 ± 0.00,,,0.000631205,0.00128669,5167,***
+HPP sleep cohort — current measures,Total Wake Time (SM),regression,Pearson r,0.03 ± 0.01,0.48 ± 0.00,-0.17 ± 0.00,0.23 ± 0.00,,,7.79e-05,0.00041301,5169,***
+HPP sleep cohort — current measures,Snore DB,regression,Pearson r,0.20 ± 0.01,0.43 ± 0.00,-0.17 ± 0.01,0.17 ± 0.00,,,0.000190108,0.000559763,5123,***
+HPP sleep cohort — current measures,Liver sound speed (US),regression,Pearson r,0.28 ± 0.00,0.39 ± 0.00,-0.05 ± 0.01,0.14 ± 0.00,,,1.53e-05,0.000160079,4633,***
+HPP sleep cohort — current measures,ALT\GPT (BT),regression,Pearson r,0.33 ± 0.00,0.39 ± 0.00,-0.01 ± 0.01,0.14 ± 0.00,,,0.00154121,0.002269,3638,**
+HPP sleep cohort — current measures,Carotid - intima media thickness (US),regression,Pearson r,0.30 ± 0.00,0.39 ± 0.01,0.00 ± 0.00,0.14 ± 0.01,,,0.000228958,0.000638672,4399,***
+HPP sleep cohort — current measures,Triglycerides (BT),regression,Pearson r,0.24 ± 0.00,0.38 ± 0.00,-0.08 ± 0.01,0.14 ± 0.00,,,0.00114414,0.00189898,3482,**
+HPP sleep cohort — current measures,Median daily caloric intake (DL),regression,Pearson r,0.22 ± 0.01,0.36 ± 0.00,-0.11 ± 0.00,0.12 ± 0.00,,,1.54e-05,0.000160079,5106,***
+HPP sleep cohort — current measures,Liver elasticity (US),regression,Pearson r,0.21 ± 0.00,0.32 ± 0.00,-0.11 ± 0.00,0.09 ± 0.00,,,0.000131082,0.000492855,4625,***
+HPP sleep cohort — current measures,Fractal dimension (FI),regression,Pearson r,0.23 ± 0.01,0.31 ± 0.00,-0.11 ± 0.00,0.08 ± 0.00,,,0.00017271,0.00053845,3260,***
+HPP sleep cohort — current measures,WBC (BT),regression,Pearson r,0.16 ± 0.01,0.28 ± 0.00,-0.12 ± 0.02,0.07 ± 0.00,,,0.00196734,0.00274393,4531,**
+HPP sleep cohort — current measures,Albumin (BT),regression,Pearson r,0.19 ± 0.01,0.28 ± 0.01,-0.14 ± 0.01,0.05 ± 0.00,,,0.00082605,0.0015636,2655,***
+HPP sleep cohort — current measures,AST\GOT (BT),regression,Pearson r,0.18 ± 0.00,0.27 ± 0.00,-0.12 ± 0.01,0.05 ± 0.00,,,0.000290226,0.000699181,3119,***
+HPP sleep cohort — current measures,GGT (BT),regression,Pearson r,0.17 ± 0.01,0.27 ± 0.01,-0.11 ± 0.02,0.04 ± 0.01,,,0.00325078,0.00390524,1317,**
+HPP sleep cohort — current measures,Platelet count (BT),regression,Pearson r,0.15 ± 0.01,0.25 ± 0.00,-0.13 ± 0.01,0.05 ± 0.00,,,0.000286522,0.000699181,4417,***
+HPP sleep cohort — current measures,Vessel density (FI),regression,Pearson r,0.14 ± 0.01,0.23 ± 0.00,-0.19 ± 0.01,0.03 ± 0.00,,,0.000746892,0.00146612,3260,***
+HPP sleep cohort — current measures,Saturated Fat,regression,Pearson r,0.14 ± 0.01,0.23 ± 0.00,-0.15 ± 0.01,0.04 ± 0.00,,,0.000152561,0.000505357,5106,***
+HPP sleep cohort — current measures,Rem Latency,regression,Pearson r,0.03 ± 0.01,0.23 ± 0.01,-0.21 ± 0.04,0.04 ± 0.00,,,0.00624871,0.00704642,5156,**
+HPP sleep cohort — current measures,Daily Fiber,regression,Pearson r,0.14 ± 0.01,0.22 ± 0.00,-0.17 ± 0.01,0.03 ± 0.00,,,0.00114769,0.00189898,5106,**
+HPP sleep cohort — current measures,Total Sleep Time (SM),regression,Pearson r,0.03 ± 0.00,0.20 ± 0.01,-0.25 ± 0.01,0.02 ± 0.01,,,0.000426237,0.000903622,5169,***
+HPP sleep cohort — current measures,Total cholesterol (BT),regression,Pearson r,0.14 ± 0.01,0.20 ± 0.00,-0.16 ± 0.03,0.00 ± 0.00,,,0.00649756,0.00717439,3460,**
+HPP sleep cohort — current measures,eGFR (BT),regression,Pearson r,0.10 ± 0.01,0.19 ± 0.01,-0.24 ± 0.01,-0.00 ± 0.01,,,0.000305554,0.000704102,3945,***
+HPP sleep cohort — current measures,Liver attenuation (US),regression,Pearson r,0.11 ± 0.01,0.19 ± 0.01,-0.19 ± 0.01,0.02 ± 0.00,,,0.000289122,0.000699181,4611,***
+HPP sleep cohort — current measures,Average width (FI),regression,Pearson r,0.14 ± 0.01,0.19 ± 0.00,-0.13 ± 0.02,-0.01 ± 0.00,,,0.0055779,0.00642671,3260,**
+HPP sleep cohort — current measures,Median daily protein caloric intake  (DL),regression,Pearson r,0.10 ± 0.00,0.18 ± 0.01,-0.15 ± 0.02,0.01 ± 0.00,,,0.00331577,0.00390524,5106,**
+HPP sleep cohort — current measures,Liver viscosity (US),regression,Pearson r,0.13 ± 0.00,0.17 ± 0.00,-0.18 ± 0.00,-0.02 ± 0.00,,,1.43e-05,0.000160079,4628,***
+HPP sleep cohort — current measures,Mean,regression,Pearson r,0.09 ± 0.01,0.15 ± 0.00,-0.18 ± 0.01,-0.03 ± 0.00,,,0.0022401,0.00297948,3027,**
+HPP sleep cohort — current measures,GMI,regression,Pearson r,0.09 ± 0.02,0.15 ± 0.00,-0.18 ± 0.02,-0.03 ± 0.00,,,0.00304091,0.0037481,3027,**
+HPP sleep cohort — current measures,LDL cholesterol (BT),regression,Pearson r,0.07 ± 0.01,0.12 ± 0.01,-0.18 ± 0.01,-0.07 ± 0.01,,,0.00125404,0.00189898,1849,**
+HPP sleep cohort — current measures,Median Daily Sodium,regression,Pearson r,0.06 ± 0.00,0.10 ± 0.01,-0.23 ± 0.00,-0.03 ± 0.00,,,0.000139487,0.000492855,5106,***
+HPP sleep cohort — current measures,Median daily carbohydrate caloric intake  (DL),regression,Pearson r,0.02 ± 0.01,0.09 ± 0.01,-0.30 ± 0.00,-0.02 ± 0.01,,,0.00013606,0.000492855,5106,***
+HPP sleep cohort — current measures,Daily Folate,regression,Pearson r,0.03 ± 0.01,0.09 ± 0.00,-0.23 ± 0.02,-0.03 ± 0.00,,,0.00288094,0.00363548,5106,**
+HPP sleep cohort — current measures,COGI,regression,Pearson r,0.05 ± 0.01,0.08 ± 0.01,-0.22 ± 0.03,-0.05 ± 0.00,,,0.00678963,0.00720332,3027,**
+HPP sleep cohort — current measures,Median daily lipid caloric intake(DL),regression,Pearson r,-0.00 ± 0.01,0.02 ± 0.00,-0.30 ± 0.02,-0.04 ± 0.00,,,0.00124469,0.00189898,5106,**
+VitalDB — preoperative diagnoses,Preoperative diabetes,classification,ROC AUC,0.66 ± 0.00,0.67 ± 0.00,,,,,0.0407375,0.0678959,626/6154,*
+VitalDB — preoperative measures,Preoperative glucose,regression,Pearson r,0.21 ± 0.00,0.23 ± 0.00,0.04 ± 0.00,0.05 ± 0.00,,,0.00197981,0.00494952,5791,**
+VitalDB — preoperative measures,Preoperative hemoglobin,regression,Pearson r,0.45 ± 0.00,0.52 ± 0.00,0.21 ± 0.00,0.27 ± 0.00,,,0.00168076,0.00494952,5831,**

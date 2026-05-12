@@ -1,0 +1,9 @@
+target,bp_source,bp_source_label,quartile,n_2y,cases_2y,percent_2y,n_nonhypertensive_with_2y,n_baseline_recordings_mean_pooled
+Sitting BP diastolic,measured,Measured baseline BP,Q1,58,3,5.172413793103448,204,158
+Sitting BP diastolic,measured,Measured baseline BP,Q2,48,4,8.333333333333332,204,134
+Sitting BP diastolic,measured,Measured baseline BP,Q3,49,4,8.16326530612245,204,141
+Sitting BP diastolic,measured,Measured baseline BP,Q4,49,17,34.69387755102041,204,139
+Sitting BP diastolic,predicted,Predicted baseline BP,Q1,51,4,7.8431372549019605,204,135
+Sitting BP diastolic,predicted,Predicted baseline BP,Q2,51,3,5.88235294117647,204,141
+Sitting BP diastolic,predicted,Predicted baseline BP,Q3,51,6,11.76470588235294,204,147
+Sitting BP diastolic,predicted,Predicted baseline BP,Q4,51,15,29.411764705882355,204,149

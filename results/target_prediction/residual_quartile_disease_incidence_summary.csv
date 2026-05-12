@@ -1,0 +1,29 @@
+disease,residual_type,quartile,n,cases,pct
+Hypertension incidence,Classification residual,Q1,51,5,9.803921568627452
+Hypertension incidence,Classification residual,Q2,51,5,9.803921568627452
+Hypertension incidence,Classification residual,Q3,51,8,15.686274509803921
+Hypertension incidence,Classification residual,Q4,51,10,19.607843137254903
+Prediabetes incidence,Classification residual,Q1,55,5,9.090909090909092
+Prediabetes incidence,Classification residual,Q2,55,3,5.454545454545454
+Prediabetes incidence,Classification residual,Q3,54,4,7.4074074074074066
+Prediabetes incidence,Classification residual,Q4,55,7,12.727272727272727
+Cardiovascular disorders incidence,Composite embedding residual,Q1,50,4,8.0
+Cardiovascular disorders incidence,Composite embedding residual,Q2,49,7,14.285714285714285
+Cardiovascular disorders incidence,Composite embedding residual,Q3,49,10,20.408163265306122
+Cardiovascular disorders incidence,Composite embedding residual,Q4,50,11,22.0
+Immune and allergic diseases incidence,Composite embedding residual,Q1,46,3,6.521739130434782
+Immune and allergic diseases incidence,Composite embedding residual,Q2,45,1,2.2222222222222223
+Immune and allergic diseases incidence,Composite embedding residual,Q3,45,1,2.2222222222222223
+Immune and allergic diseases incidence,Composite embedding residual,Q4,45,1,2.2222222222222223
+"Metabolic, endocrine and reproductive disorders incidence",Composite embedding residual,Q1,30,15,50.0
+"Metabolic, endocrine and reproductive disorders incidence",Composite embedding residual,Q2,29,11,37.93103448275862
+"Metabolic, endocrine and reproductive disorders incidence",Composite embedding residual,Q3,29,12,41.37931034482759
+"Metabolic, endocrine and reproductive disorders incidence",Composite embedding residual,Q4,30,12,40.0
+Other incidence,Composite embedding residual,Q1,43,3,6.976744186046512
+Other incidence,Composite embedding residual,Q2,42,1,2.380952380952381
+Other incidence,Composite embedding residual,Q3,42,1,2.380952380952381
+Other incidence,Composite embedding residual,Q4,42,4,9.523809523809524
+Sleep disorders and mental health incidence,Composite embedding residual,Q1,56,0,0.0
+Sleep disorders and mental health incidence,Composite embedding residual,Q2,56,1,1.7857142857142856
+Sleep disorders and mental health incidence,Composite embedding residual,Q3,55,1,1.8181818181818181
+Sleep disorders and mental health incidence,Composite embedding residual,Q4,56,3,5.357142857142857

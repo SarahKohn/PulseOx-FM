@@ -1,0 +1,37 @@
+Disease_Category,Disease_Used_in_Analysis,Prevalence_N_Total,Prevalence_Percent
+Cardiovascular disorders,Heart valve disease,114/7817,1.5
+Cardiovascular disorders,Hypertension,991/7817,12.7
+"Metabolic, endocrine and reproductive disorders",Fatty Liver Disease,505/7817,6.5
+"Metabolic, endocrine and reproductive disorders",Gout,103/7817,1.3
+"Metabolic, endocrine and reproductive disorders",Hyperlipidemia,2122/7817,27.1
+"Metabolic, endocrine and reproductive disorders",Obesity,488/7817,6.2
+"Metabolic, endocrine and reproductive disorders",Polycystic Ovary Disease,182/7817,2.3
+"Metabolic, endocrine and reproductive disorders",Prediabetes,712/7817,9.1
+Sleep disorders and mental health,Anxiety,256/7817,3.3
+Sleep disorders and mental health,Depression,252/7817,3.2
+Sleep disorders and mental health,Insomnia,100/7817,1.3
+Sleep disorders and mental health,Sleep Apnea,270/7817,3.5
+Gastrointestinal disorders,Anal Fissure,565/7817,7.2
+Gastrointestinal disorders,Gallstone Disease,266/7817,3.4
+Gastrointestinal disorders,Haemorrhoids,1778/7817,22.7
+Gastrointestinal disorders,IBS,244/7817,3.1
+Gastrointestinal disorders,Peptic Ulcer Disease,192/7817,2.5
+Hematologic and nutritional disorders,Anemia,367/7817,4.7
+Hematologic and nutritional disorders,B12 Deficiency,401/7817,5.1
+Hematologic and nutritional disorders,G6PD,93/7817,1.2
+Neurological and pain conditions,ADHD,1401/7817,17.9
+Neurological and pain conditions,Back Pain,1601/7817,20.5
+Neurological and pain conditions,Fibromyalgia,89/7817,1.1
+Neurological and pain conditions,Headache,179/7817,2.3
+Neurological and pain conditions,Migraine,442/7817,5.7
+Immune and allergic diseases,Allergy,1637/7817,20.9
+Immune and allergic diseases,Asthma,516/7817,6.6
+Immune and allergic diseases,Atopic Dermatitis,244/7817,3.1
+Immune and allergic diseases,Psoriasis,244/7817,3.1
+Other,Fractures,763/7817,9.8
+Other,Hearing loss,377/7817,4.8
+Other,Oral apthae,364/7817,4.7
+Other,Osteoarthritis,269/7817,3.4
+Other,Sinusitis,254/7817,3.2
+Other,Urinary Tract Stones,287/7817,3.7
+Other,Urinary tract infection,740/7817,9.5
