@@ -89,7 +89,7 @@ PulseOx-FM/
 ## Setup
 
 ```bash
-git clone https://github.com/<org>/PulseOx-FM.git
+git clone https://github.com/SarahKohn/PulseOx-FM.git
 cd PulseOx-FM
 pip install -r requirements.txt
 ```
