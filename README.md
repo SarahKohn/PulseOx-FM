@@ -18,32 +18,7 @@ Pretrained on **6,995,558** two-minute PPG segments from the HPP sleep cohort, t
 
 ## Architecture
 
-```
-Input  (B, 3, 15 000)        3-channel PPG signal, 120 s at 125 Hz
-                              Ch 0: SpO₂   Ch 1: Heart rate   Ch 2: PAT waveform
-         │
-         ▼
-1D Patch Embed                patch_size = 125 samples (1 s)
-                              → 120 non-overlapping patches per recording
-         │
-         ▼
-Positional Encoding           sinusoidal, fixed
-         │
-         ▼
-Random Masking                50 % of patches masked during pretraining
-         │
-         ▼
-ViT Encoder                   depth = 24 · heads = 16 · embed_dim = 256
-                              Output: (B, n_visible + 1, 256) incl. CLS token
-         │                                   │
-         │                                   └── CLS token → 256-dim embedding
-         ▼
-Transformer Decoder           depth = 8 · heads = 16 · embed_dim = 256
-                              Reconstructs masked patches
-         │
-         ▼
-Loss (v3.3)                   Weighted DTW + MSE on PAT waveform channel
-```
+![PulseOx-FM architecture](assets/architecture.png)
 
 **Key numbers**
 
