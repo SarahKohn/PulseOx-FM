@@ -1,6 +1,6 @@
 # PulseOx-FM
 
-**From Sleep to Health Outcomes: A Pulse-Oximetry Foundation Model for Wearable-Scale Physiological Profiling**
+**A foundation model of wearable pulse oximetry reveals physiological signatures of health and cardiometabolic risk**
 
 Kohn et al.
 
