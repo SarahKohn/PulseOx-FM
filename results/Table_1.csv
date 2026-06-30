@@ -1,0 +1,10 @@
+Characteristic,HPP cohort (train + validation sets),HPP cohort (test set),VitalDB cohort
+Country,Israel,Israel,South Korea
+"Total monitoring time, h",291221.87,19042.53,18206.19
+"Participants, n",10704,607,6156
+"Recordings, n",42282,2786,NA
+"2-minute segments, n",8736656,571276,NA
+"Female, n (%)",5560 (51.9%),321 (52.9%),3029 (49.2%)
+"Male, n (%)",5108 (47.7%),286 (47.1%),3127 (50.8%)
+"Age, mean +/- s.d. (years)",51.02 +/- 9.06,51.65 +/- 7.76,57.30 +/- 14.98
+"BMI, mean +/- s.d. (kg/m^2)",26.06 +/- 4.20,25.89 +/- 3.85,23.28 +/- 3.62

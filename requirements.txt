@@ -1,0 +1,27 @@
+# Core deep learning
+torch>=2.0.0
+timm==0.5.4
+
+# Signal processing
+tslearn>=0.5.2  # required for SoftDTWLossPyTorch (loss v3.3, DTW loss)
+scipy>=1.9.0
+numpy>=1.24.0
+pyEDFlib>=0.1.22
+wfdb>=4.0.0
+biosppy>=2.0.0
+
+# Data science
+pandas>=1.5.0
+scikit-learn>=1.2.0
+h5py>=3.9.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Experiment tracking
+wandb>=0.16.0
+
+# Utilities
+tqdm>=4.65.0
+einops>=0.7.0
