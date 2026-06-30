@@ -155,10 +155,10 @@ All result files are aggregate, per-target summaries containing no participant-l
 
 ```bibtex
 @article{kohn2025pulseoxfm,
-  title   = {From Sleep to Health Outcomes: A Pulse-Oximetry Foundation Model for Wearable-Scale Physiological Profiling},
-  author  = {Kohn, Sarah and Lutsker, Guy and Diamant Carmel, Alon and Shilo, Smadar and Gabet, Adam and Sasson, Gil and Wolf, Gili and Godneva, Anatasia and Weinberger, Adina and Rossman, Hagai and Segal, Eran},
-  journal = {TBD},
-  year    = {TBD},
+  title   = {A foundation model of wearable pulse oximetry reveals physiological signatures of health and cardiometabolic risk},
+  author  = {Kohn, Sarah and Lutsker, Guy and Diament, Alon and Shilo, Smadar and Gabet, Adam and Sasson, Gil and Wolf, Gili and Wolf, Adva and Godneva, Anastasia and Weinberger, Adina and Rossman, Hagai and Segal, Eran},
+  journal = {arXiv},
+  year    = {2026},
 }
 ```
 
