@@ -1,8 +1,9 @@
 # PulseOx-FM
 
-**A foundation model of wearable pulse oximetry reveals physiological signatures of health and cardiometabolic risk**
-
+**A foundation model of wearable pulse oximetry reveals physiological signatures of health and cardiometabolic risk**. 
 Kohn et al.
+
+Link to the manuscript: [https://www.medrxiv.org/content/10.64898/2026.07.01.26356992v1](https://www.medrxiv.org/content/10.64898/2026.07.01.26356992v1)
 
 ![PulseOx-FM architecture](assets/architecture.png)
 
@@ -154,11 +155,14 @@ All result files are aggregate, per-target summaries containing no participant-l
 ## Citation
 
 ```bibtex
-@article{kohn2025pulseoxfm,
+@article{kohn2026pulseoxfm,
   title   = {A foundation model of wearable pulse oximetry reveals physiological signatures of health and cardiometabolic risk},
   author  = {Kohn, Sarah and Lutsker, Guy and Diament, Alon and Shilo, Smadar and Gabet, Adam and Sasson, Gil and Wolf, Gili and Wolf, Adva and Godneva, Anastasia and Weinberger, Adina and Rossman, Hagai and Segal, Eran},
-  journal = {arXiv},
+  journal = {medRxiv},
   year    = {2026},
+  doi     = {10.64898/2026.07.01.26356992},
+  url     = {https://www.medrxiv.org/content/10.64898/2026.07.01.26356992v1},
+  note    = {Preprint}
 }
 ```
 
